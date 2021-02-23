@@ -14,9 +14,9 @@
 - 👀 I am a 3D printing nerd who is currently working on a DIY printer called [Fusion Core](https://github.com/andyzhou443/FusionCore)!
 - 🎓 Computer Engineering Student at CUNY City College of New York.
 - 🤔 Need some help with technical interview.
-- 🤖 Currently learning 'Full-Stack Web Development', 'Robotics', and 'Artificial Intelligence'!
+- 🤖 Currently learning `Full-Stack Web Development`, `Robotics`, and `Artificial Intelligence`!
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a amateur radio operator! My call sign is KD2UJS!
+- ⚡ Fun fact: I am a amateur radio operator! My call sign is `KD2UJS`!
 - 💭 Let's get to know each other!
 
 <div align="center">
