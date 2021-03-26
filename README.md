@@ -24,7 +24,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyzhou443&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Andy Zhou's github stats](https://github-readme-stats.vercel.app/api/?username=andyzhou443&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&theme=tokyonight) 
+![Andy Zhou's GitHub stats](https://github-readme-stats.vercel.app/api/?username=andyzhou443&show_icons=true&theme=tokyonight) 
 
 </div>
 <!--
